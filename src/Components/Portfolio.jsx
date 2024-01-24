@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mlsa pic2.avif";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    "My portfolio website showcases my skills, project links, and provides a platform to connect with fellow tech enthusiasts.",
+    url: "https://vaibhavghugretkar.github.io/portfolio/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "AxiomNews - A simple news website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple news website which keeps you updated with what's happeing around the world",
+    url: "https://vaibhavghugretkar.github.io/axiomnewsapp/",
   },
   {
-    title: "My Resume Site",
+    title: "Text to Speech Convertor",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a simple tool which converts one form of language into another and also with an voice option",
+    url: "https://vaibhavghugretkar.github.io/TextToSpeech/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TextUtils",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Simple text utility tool which helps converting uppercase to lowercase and vice-versa also with other text-util options .",
+    url: "https://vaibhavghugretkar.github.io/textutils/",
   },
 ];
 
