@@ -29,7 +29,7 @@ const siteProps = {
   email: "vaibhavghugretkar23@gmail.com",
   gitHub: "Vaibhavghugretkar ",
   instagram: "vaibhav_gh7",
-  linkedIn: "https://www.linkedin.com/in/vaibhav-ghugretkar-97b024257/",
+  linkedIn: "vaibhav-ghugretkar-97b024257",
   medium: "",
   twitter: "@Vaibhav_Gh7",
   youTube: "",
