@@ -37,10 +37,10 @@ const projectList = [
     url: "https://vaibhavghugretkar.github.io/portfolio/",
   },
   {
-    title: "AxiomNews - A simple news website",
+    title: "To-Do List",
     description:
-      "A simple news website which keeps you updated with what's happeing around the world",
-    url: "https://vaibhavghugretkar.github.io/axiomnewsapp/",
+      "Simple To-Do list website which allows you to mark and target your daily work",
+    url: " https://vaibhavghugretkar.github.io/ToDoList/",
   },
   {
     title: "Text to Speech Convertor",
@@ -49,9 +49,9 @@ const projectList = [
     url: "https://vaibhavghugretkar.github.io/TextToSpeech/",
   },
   {
-    title: "TextUtils",
+    title: "Nithya Website",
     description:
-      "Simple text utility tool which helps converting uppercase to lowercase and vice-versa also with other text-util options .",
+      "This is a NGO website which helps in creating awareness on menstrual health and hygiene. You can get connected with the NGO with the help of this website",
     url: "https://vaibhavghugretkar.github.io/textutils/",
   },
 ];
