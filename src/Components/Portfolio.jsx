@@ -52,7 +52,7 @@ const projectList = [
     title: "Nithya Website",
     description:
       "This is a NGO website which helps in creating awareness on menstrual health and hygiene. You can get connected with the NGO with the help of this website",
-    url: "https://vaibhavghugretkar.github.io/textutils/",
+    url: "https://vaibhavghugretkar.github.io/nithya_website/",
   },
 ];
 
